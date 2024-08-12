@@ -1,0 +1,143 @@
+<<BEGIN PATIENT INTAKE CHAT>>
+
+PATIENT: Atharv
+
+INTAKE: Hello Atharv, I'm here to help you describe your symptoms. Can you please tell me what symptoms you're currently experiencing?
+
+PATIENT: Exhaustion
+
+INTAKE: I'm sorry to hear that you're feeling exhausted. Can you please describe how long you've been experiencing this exhaustion?
+
+PATIENT: 5 days
+
+INTAKE: I see, you've been feeling exhausted for 5 days. Can you describe the severity of your exhaustion? For example, is it preventing you from doing your daily activities?
+
+PATIENT: like i am feeling tired, and it is preventing me to do brain intensive task
+
+INTAKE: I understand that you're feeling tired and it's affecting your ability to perform tasks that require mental effort. Have you noticed any other symptoms such as difficulty concentrating, memory problems, or confusion?
+
+PATIENT: difficulty concentrating
+
+INTAKE: I see, you're having difficulty concentrating along with exhaustion. Have you noticed any physical symptoms like headaches, muscle pain, or changes in appetite or sleep?
+
+PATIENT: no
+
+INTAKE: Understood, no physical symptoms like headaches, muscle pain, or changes in appetite or sleep. Have you recently experienced any significant life changes or stressors, such as a new job, moving, or loss of a loved one?
+
+PATIENT: loss of friends
+
+INTAKE: I'm sorry to hear about your loss. Emotional distress can certainly contribute to feelings of exhaustion and difficulty concentrating. Have you been feeling sad, anxious, or experiencing mood swings since this event?
+
+PATIENT: feeling sad
+
+INTAKE: I'm sorry to hear that you're feeling sad. It's important to note that emotional well-being can significantly impact physical health. Have you noticed any changes in your interest or pleasure in doing things you usually enjoy?
+
+PATIENT: coding, but right now fully exhausted
+
+INTAKE: I understand that you're usually interested in coding, but currently, you're too exhausted to engage in it. Have you noticed any changes in your sleep patterns, such as difficulty falling asleep, staying asleep, or feeling excessively sleepy during the day?
+
+PATIENT: staying asleep
+
+INTAKE: I see, you're having trouble staying asleep. This can certainly contribute to feelings of exhaustion. Have you been experiencing any unusual dreams or nightmares?
+
+PATIENT: no
+
+INTAKE: Understood, no unusual dreams or nightmares. Have you tried any remedies or treatments to help with your exhaustion and difficulty concentrating? For example, have you adjusted your diet, exercise, or sleep routines, or tried any medications or supplements?
+
+PATIENT: no
+
+INTAKE: Okay, you haven't tried any specific remedies or treatments yet. Have you noticed any factors that seem to make your symptoms better or worse, such as certain activities, times of day, or after eating or drinking certain things?
+
+PATIENT: no
+
+INTAKE: Understood, you haven't noticed any specific factors that affect your symptoms. Have you experienced these symptoms of exhaustion and difficulty concentrating in the past, or is this the first time?
+
+PATIENT: in past too
+
+INTAKE: I see, you've experienced these symptoms in the past as well. Can you recall if there were any specific triggers or circumstances that led to these symptoms previously?
+
+PATIENT: performing bad in exams
+
+INTAKE: I understand, performing poorly on exams has previously triggered these symptoms. Have you been under similar academic or performance-related stress recently?
+
+PATIENT: no
+
+INTAKE: Understood, you haven't been under similar academic or performance-related stress recently. Have you been in contact with a healthcare professional about these symptoms, and if so, what was their advice or diagnosis?
+
+PATIENT: no
+
+INTAKE: I see, you haven't been in contact with a healthcare professional about these symptoms yet. Are there any other symptoms or health concerns you've been experiencing that you haven't mentioned yet?
+
+PATIENT: nnno
+
+INTAKE: Alright, thank you for confirming. It's important to keep track of any new symptoms if they arise. Have you noticed any patterns or regularity to your exhaustion and difficulty concentrating, such as certain times of day when it's worse or better?
+
+PATIENT: no
+
+INTAKE: Understood, you haven't noticed any specific patterns or regularity to your symptoms. Have you been able to maintain your usual level of physical activity, or has your exhaustion affected this as well?
+
+PATIENT: same only
+
+INTAKE: I see, your level of physical activity has remained the same despite your exhaustion. Have you noticed any changes in your weight, either loss or gain, since you started feeling this way?
+
+PATIENT: loss, but because mess food is not good
+
+INTAKE: I understand, you've experienced weight loss, but you attribute it to the quality of the food in your mess. Have you noticed any changes in your bowel habits or digestion since you started feeling exhausted and having difficulty concentrating?
+
+PATIENT: no
+
+INTAKE: Understood, no changes in bowel habits or digestion. Have you been experiencing any feelings of dizziness, lightheadedness, or fainting spells along with your exhaustion?
+
+PATIENT: no
+
+INTAKE: Alright, no feelings of dizziness, lightheadedness, or fainting. Have you noticed any changes in your heart rate, such as palpitations or a feeling of your heart racing or skipping beats?
+
+PATIENT: no
+
+INTAKE: Understood, no changes in heart rate. Have you been experiencing any shortness of breath or difficulty breathing?
+
+PATIENT: no
+
+INTAKE: Alright, no shortness of breath or difficulty breathing. Have you noticed any changes in your skin, such as rashes, itching, or changes in color or texture?
+
+PATIENT: no
+
+INTAKE: Understood, no changes in your skin. Have you been experiencing any changes in your vision or hearing?
+
+PATIENT: no
+
+INTAKE: Alright, no changes in vision or hearing. Have you been feeling unusually thirsty or have you noticed an increase in your urination frequency?
+
+PATIENT: no
+
+INTAKE: Understood, no unusual thirst or increased urination. Have you been experiencing any unexplained or unusual pain anywhere in your body?
+
+PATIENT: no
+
+INTAKE: Alright, no unexplained or unusual pain. Have you noticed any changes in your ability to taste or smell?
+
+PATIENT: no
+
+INTAKE: Understood, no changes in your ability to taste or smell. Have you been experiencing any feelings of numbness or tingling in any part of your body?
+
+PATIENT: no
+
+INTAKE: Alright, no feelings of numbness or tingling. Have you noticed any changes in your mood or emotions, other than feeling sad, since you started experiencing these symptoms?
+
+PATIENT: no
+
+INTAKE: Understood, no other changes in mood or emotions. Have you been experiencing any feelings of restlessness or irritability?
+
+PATIENT: i have, like stopped caring about stuffs that happen with me or around me
+
+INTAKE: I see, you've been feeling restless and indifferent towards things happening with you or around you. Have you noticed any changes in your eating habits, such as eating more or less than usual, or craving certain types of food?
+
+PATIENT: no
+
+INTAKE: Understood, no changes in your eating habits. Have you been experiencing any feelings of hopelessness or thoughts of self-harm? It's important to discuss these feelings with a healthcare professional immediately if you are.
+
+PATIENT: hopelessness sometimes
+
+INTAKE: I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's really important to talk things over with someone who can, though, such as a mental health professional or a trusted person in your life.
+
+<<END PATIENT INTAKE CHAT>>

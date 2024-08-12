@@ -1,0 +1,19 @@
+1. MAJOR DEPRESSIVE DISORDER (MDD): A common and serious medical illness that negatively affects how you feel, the way you think and how you act. It causes feelings of sadness and/or a loss of interest in activities once enjoyed.
+   - DIFFERENTIALS: Generalized Anxiety Disorder, Bipolar Disorder, Adjustment Disorder
+   - DEMOGRAPHICS: Can affect anyone at any age but most commonly starts in the late teens to mid-20s. Both genders are affected, but women are twice as likely to experience MDD.
+   - SYMPTOMS: Persistent sadness, loss of interest or pleasure in activities, difficulty sleeping or oversleeping, energy loss, feelings of worthlessness, and thoughts of death or suicide.
+   - INDICATORS: The patient's reported symptoms of exhaustion, difficulty concentrating, feelings of sadness, restlessness, and hopelessness align with the symptoms of MDD.
+   - CONTRAINDICATORS: No physical symptoms reported, which are sometimes present in MDD.
+   - PROGNOSIS: With appropriate treatment, 70-80% of individuals with MDD can achieve a significant reduction in symptoms.
+   - TREATMENT: Psychotherapy (talk therapy), medications, and brain stimulation therapies.
+   - TESTS: No specific tests can diagnose depression. However, healthcare providers may use psychological evaluations or physical exams to rule out other conditions.
+
+2. ADJUSTMENT DISORDER: A group of symptoms, such as stress, feeling sad or hopeless, and physical symptoms that can occur after you go through a stressful life event.
+   - DIFFERENTIALS: Major Depressive Disorder, Generalized Anxiety Disorder, Post-Traumatic Stress Disorder
+   - DEMOGRAPHICS: Can affect anyone at any age. The type of stressor, its duration, and its intensity can influence who gets an adjustment disorder.
+   - SYMPTOMS: Sadness, hopelessness, lack of enjoyment in usual activities, trouble sleeping, feeling overwhelmed, and difficulty concentrating.
+   - INDICATORS: The patient's reported symptoms and recent emotional stressor (loss of friends) align with the symptoms and triggers of Adjustment Disorder.
+   - CONTRAINDICATORS: The patient's symptoms have been present for more than a few months, which is longer than typical for Adjustment Disorder.
+   - PROGNOSIS: Usually improves within 6 months if the stressor is removed, but can become chronic if the stressor persists.
+   - TREATMENT: Psychotherapy is the main treatment. Sometimes medications are used to help with symptoms such as depression, anxiety, and sleep problems.
+   - TESTS: Psychological evaluation to understand how the patient's symptoms are impacting their daily life and to rule out other mental health disorders.

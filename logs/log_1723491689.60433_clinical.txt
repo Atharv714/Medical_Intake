@@ -1,0 +1,23 @@
+## SENSES
+
+SIGHT: Look for signs of fatigue such as dark circles under the eyes, pale skin, or a generally tired appearance. These could indicate physical exhaustion or poor sleep quality. Also, observe the patient's body language and facial expressions for signs of sadness or indifference, which could be indicative of a mood disorder.
+
+SOUND: Listen for changes in the patient's tone of voice, such as monotony or lack of enthusiasm, which could indicate feelings of sadness or hopelessness. Also, pay attention to the content of the patient's speech for signs of negative thinking or self-deprecating comments.
+
+TOUCH: While physical symptoms are not reported, palpate the patient's thyroid gland to rule out any physical causes of fatigue such as hypothyroidism. 
+
+SMELL: No specific smells to pay attention to in this case as the patient does not report any changes in smell or any symptoms that would suggest a smell-related issue.
+
+## EXAMINATION
+
+- MENTAL STATUS EXAMINATION: Assess the patient's appearance, behavior, cognition, and thought processes to evaluate for signs of depression or other mood disorders. This could help explain the patient's feelings of sadness, hopelessness, and restlessness.
+- PHYSICAL EXAMINATION: Conduct a general physical examination to rule out any physical causes of the patient's symptoms. This should include checking vital signs, heart and lung function, and the thyroid gland.
+- SLEEP ASSESSMENT: Ask the patient about his sleep habits, quality of sleep, and any sleep disturbances. This could help identify any sleep disorders that may be contributing to the patient's exhaustion and difficulty concentrating.
+
+## INTERVIEW
+
+- UNDERSTANDING THE PATIENT'S EMOTIONAL STATE: "Can you tell me more about your feelings of sadness and hopelessness?"
+- IDENTIFYING POTENTIAL TRIGGERS: "You mentioned a loss of friends recently. Can you tell me more about this situation?"
+- ASSESSING COPING MECHANISMS: "How have you been coping with your feelings and symptoms?"
+- EVALUATING SUPPORT SYSTEM: "Who do you have in your life that you can talk to about your feelings?"
+- ASSESSING RISK OF SELF-HARM: "Have you had any thoughts of hurting yourself?"
